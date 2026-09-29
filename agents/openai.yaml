@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 项目研发工作流"
+  short_description: "AI项目需求开发测试与验收工作流"
+  default_prompt: "按项目分层README和原始材料，生成需求分析、H5接口审查、技术实施、测试、进展与验收文档；不确定内容必须标记，不得脑补。"
